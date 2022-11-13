@@ -12,3 +12,7 @@ Discutimos sobre os projetos que iria ocorrer na fatec aberta, e pensamos em des
 <a href="https://github.com/senhorN">Nicolas Pereira<a><br>
 <A href="https://github.com/Kienner">Kenner Souza<A><br>
 <a href="https://github.com/penfone">Eduardo Madeira<a> <br>
+
+#
+### Imagem do game 
+![image](https://user-images.githubusercontent.com/90424448/201542986-a477ca03-651c-447f-a17f-a66a04a56613.png)
